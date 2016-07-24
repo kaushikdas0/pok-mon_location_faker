@@ -6,7 +6,7 @@ Next:
 # Open test.xcodeproj with latest xcode.
 # Open pokie.gpx and put the lat and long you want.
 # Kill the pokemon app on your iphone
-# Run the current app.
+# Run the faker app.
 # Fake the location with xcode
 # Run the pokenmon app.
 
